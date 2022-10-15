@@ -6,11 +6,14 @@
 <h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
 <hr/>
 
+<img width="200px" height="200px" align="right" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif"/>
 🌍 I'm based in Gujarat, India
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
+
+
 
 😃 My interest includes Web Developing & Cloud Computing technology.
 
