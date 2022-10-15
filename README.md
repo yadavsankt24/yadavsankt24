@@ -43,8 +43,11 @@
 
 <hr/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsankt24&theme=react&hide_border=false"/>
+<p>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsankt24&theme=react&hide_border=false"/>
+</p>
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
