@@ -41,14 +41,20 @@
 <hr/>
 # 📊 GitHub Stats
 
-<img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
-<img align="right" width="47%"  src="[https://github-readme-streak-stats.herokuapp.com/?user=yadavsankt24&theme=react&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)"/>
+<hr/>
 
-![](https://github-readme-stats.vercel.app/api?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsankt24&theme=react&hide_border=false"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false) -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=yadavsankt24&theme=react&hide_border=false) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsankt24&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 <hr/>
 
