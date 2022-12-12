@@ -1,7 +1,9 @@
 <img width="100%" alt="Coding" margin="auto" height src="https://www.digitalsolutionservices.com/img/services/website1.gif"/>
 <br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Sanket Yadav</h1>
+<h2 align="center">Aspiring MERN Developer</h2>
 <br/>
+
 <hr/>
 <h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
 <hr/>
