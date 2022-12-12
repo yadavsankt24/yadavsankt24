@@ -25,7 +25,6 @@
 
 📧 Email - yadavsanket24@gmail.com
 
-<p>🙍🏿 Portfolio -https://yadavsankt24.github.io/ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavsankt24&label=Profile%20views&color=0e75b6&style=flat" alt="yadavsankt24"/> </p>
 
@@ -35,6 +34,8 @@
 <hr/>
 
 ## 🌐 Socials
+
+<p>🙍🏿 Portfolio -https://yadavsankt24.github.io/ </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-yadav-a05062183)
 
